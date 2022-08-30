@@ -1,1 +1,1 @@
-Demo: https://react-authorization-prototype.herokuapp.com/
+Demo: https://react-authorization-prototype.onrender.com/authorization/login
